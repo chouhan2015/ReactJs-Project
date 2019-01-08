@@ -1,0 +1,240 @@
+.MuiAppBar-colorPrimary-18 {
+  color: #fff;
+  background-color: #00bcd4 !important;
+}
+.page-setup {
+  margin-top : 4%;
+}
+.cancel-ticket {
+  float: right;
+  border-radius: 0px;
+}
+.listheading {
+  text-align: center;
+}
+.listheading span {
+  font-size:14px !important;
+}
+.airplaneImg {
+  width: 18px;
+  height: 25px;
+  margin-bottom: -46px;
+}
+.button.orange {
+  background: red;
+  color: #fff;
+  border: 1px solid red;
+  float: left;
+  margin-top: -4px;
+  margin-right: 83px;
+}
+.fare-other{
+  margin-left : 52px;
+}
+.rupees-icon {
+  width: 22px !important;
+  height: 22px !important;
+}
+.fare {
+  margin-left: 118px;
+}
+.fr {
+  float: right;
+  margin-top: 25px;
+}
+.db {
+  display: block;
+}   
+.clearfix:before, .clearfix:after {
+  display: table;
+  content: " ";
+}
+
+.App{
+  overflow-x: hidden;
+}
+.MuiToolbar-root-47 {
+  display: block !important;
+}
+.logout {
+  float: right;
+  margin-top : 7px !important;
+}
+.form-input {
+  width:inherit;
+}
+.homeTitle {
+  padding-bottom: 0px;
+  padding-top: 17px;
+  padding-left: 46px;
+}
+.flight-table h6{
+  font-size:14px;
+  color:gray;
+  display: inline;
+}
+
+.flight-table-row .flight-table-data {
+  font-size:13px;
+}
+
+.home{
+  float: right;
+}
+.btn-danger {
+  color: #fff;
+  background-color:red;
+  border-color:red;
+  float: right;
+  margin-top: 33px;
+  border-radius: 0px;
+}
+
+.App {
+  /* text-align: center; */
+}
+
+.loginscreen {
+  text-align: center;
+}
+.BookingDetail {
+  float: right;
+}
+.RegisterForm {
+  text-align: center;
+}
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.react-autosuggest__container {
+  position: relative;
+}
+
+.react-autosuggest__input {
+  width: 100%;
+  height: auto;
+  padding: 10px 20px;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+}
+
+.react-autosuggest__input--focused {
+  outline: none;
+}
+
+.react-autosuggest__input--open {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.react-autosuggest__suggestions-container {
+  display: none;
+}
+
+.react-autosuggest__suggestions-container--open {
+  display: block;
+  position: absolute;
+  top: 51px;
+  width: 280px;
+  border: 1px solid #aaa;
+  background-color: #fff;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  z-index: 2;
+}
+
+.react-autosuggest__suggestions-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.react-autosuggest__suggestion {
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+.react-autosuggest__suggestion--highlighted {
+  background-color: #ddd;
+}
+
+.submit-btn {
+  width: 100%;
+  background-color: rgb(0, 188, 212);
+  border-color:rgb(0, 188, 212);
+}
+
+.search-widget {
+  border: 1px solid rgba(0, 0, 0, 0.075);
+  padding: 25px;
+  box-shadow: 5px 5px 5px #ddd;
+  margin-top: 35px;
+}
+
+input[type="date"] {
+  width: 100%;
+  height: auto;
+  padding: 10px 20px;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+}
+
+@media (min-width: 600px){
+  .MuiToolbar-regular-49 {
+    min-height: 52px !important;
+}
+}
+
+.data-unavailable {
+  text-align: center;
+  padding: 50px;
+}
+
+/* input[type="date"] {position: relative;}
+input[type="date"]:before {
+  left: 0px;top: 0px;
+	content: "Please Select Date Of Journey";
+	color: #999;
+	width: 100%;line-height: 32px;
+}
+input[type="date"]:valid:before {display: none;} */
+
+.journeyDate:before {
+  left: 0px;top: 0px;
+	content: "Please Select Date Of Journey";
+	color: #999;
+	width: 100%;line-height: 32px;
+}
+.journeyDate:valid:before {display: none;}
+
+.returnDate:before {
+  left: 0px;top: 0px;
+	content: "Please Select Return Date Of Journey";
+	color: #999;
+	width: 100%;line-height: 32px;
+}
+.returnDate:valid:before {display: none;}
+
+.BookFlight-formControl-171 {
+  margin: 16px !important;
+  min-width: 21% !important;
+}
+
+.travellers-section {
+  border : 1px solid lightgray;
+}
+
+.MuiFormControl-root-170 {
+    min-width: 24% !important;
+
+}
